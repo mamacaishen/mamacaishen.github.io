@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mamacaishen.github.io/sitemap.xml
